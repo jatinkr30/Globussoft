@@ -1,4 +1,4 @@
-function encodeString(str) {
+function f(str) {
     let encoder = {
         a: 'z',
         b: 'y',
