@@ -1,4 +1,4 @@
-function countChar(str) {
+function g(str) {
     let counter = {
         a: 0,
         b: 0,
